@@ -1,4 +1,4 @@
-# Interactive Model for Laravel
+# WIP: Interactive Model for Laravel
 
 [![Latest Stable Version](https://poser.pugx.org/4msar/interactive-model/v/stable)](https://packagist.org/packages/4msar/interactive-model)  [![Total Downloads](https://poser.pugx.org/4msar/interactive-model/downloads)](https://packagist.org/packages/4msar/interactive-model) [![Latest Unstable Version](https://poser.pugx.org/4msar/interactive-model/v/unstable)](https://packagist.org/packages/4msar/interactive-model) [![License](https://poser.pugx.org/4msar/interactive-model/license)](https://packagist.org/packages/4msar/interactive-model)
 
