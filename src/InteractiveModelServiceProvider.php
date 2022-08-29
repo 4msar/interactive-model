@@ -31,7 +31,7 @@ class InteractiveModelServiceProvider extends ServiceProvider
     private function registerModelGenerator()
     {
         $this->app->singleton('command.interactive.model', function ($app) {
-            return $app['MSAR\InteractiveModel\Commands\MakeCommand'];
+            return $app['MSAR\InteractiveModel\Commands\InteractiveCommand'];
         });
 
         $this->commands('command.interactive.model');
